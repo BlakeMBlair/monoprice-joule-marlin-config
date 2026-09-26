@@ -5,6 +5,10 @@ Custom Marlin setup and pin definitions for an HC32-based Monoprice Joule 3D pri
 ## Demonstration
 
 
+https://github.com/user-attachments/assets/3a828dcb-8d71-4dea-931d-c6dbd98641e4
+
+
+
 ## Supported Upgrades & Modifications
 * **Auto Bed Leveling:** Creality CR Touch ABL sensor (`SERVO0_PIN` & `Z_MIN_PROBE_PIN`)
 * **Extrusion:** Capricorn PTFE Bowden tubing
